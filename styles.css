@@ -19,6 +19,10 @@ article {
     border-color: yellow;
     color: black;
 }
+img {
+    width: 200px;
+    height: auto;
+}
 aside {
     float: right;
     background-color: white;
