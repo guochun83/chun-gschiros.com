@@ -1,0 +1,37 @@
+body {
+    background-color: silver;
+}
+header {
+    background-color: grey;
+    color: white;
+}
+section {
+    float: left;
+    border-width: thin;
+    border-style: solid;
+    border-color: white;
+    color: green;
+    width: 75%;
+}
+article {
+    border-width: thin;
+    border-style: solid;
+    border-color: yellow;
+    color: black;
+}
+aside {
+    float: right;
+    background-color: white;
+    border: thin solid black;
+    width: 24%;
+}
+footer {
+    clear: both;
+    height: 50px;
+    background-color: green;
+    color: white;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
