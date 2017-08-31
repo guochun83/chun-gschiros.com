@@ -5,6 +5,29 @@ header {
     background-color: grey;
     color: white;
 }
+
+.highlightGreen{
+    background-color:green;
+}
+.myOwnClass{
+    font-size: 2em
+}
+.highlightBlue{
+    background-color:blue;
+}
+.leftAbout{
+    width:50%;
+    float:left;
+
+}
+.rightAbout{
+    width:50%;
+    float:right;
+}
+#myUniqueId{
+    color:yellow;
+}
+
 section {
     float: left;
     border-width: thin;
@@ -12,12 +35,15 @@ section {
     border-color: white;
     color: green;
     width: 75%;
+    
 }
 article {
     border-width: thin;
     border-style: solid;
     border-color: yellow;
     color: black;
+    padding-left: 100px;
+    margin-left:100px;
 }
 img {
     width: 200px;
